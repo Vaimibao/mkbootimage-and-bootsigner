@@ -102,7 +102,9 @@ Add for bootsigner
 3. First you have to switch to the directory of bootimg.exe
 
     EXAMPLE
-            cd C:\xiyan\
+            
+	    cd C:\xiyan\
+    
     THEN
 
 ### Unpack boot/recovery(.img) support dtb(dt.img):
