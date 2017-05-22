@@ -1,0 +1,1 @@
+start bootimg.exe --unpack-bootimg
