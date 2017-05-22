@@ -4,6 +4,7 @@ JUST FOR TEST
 仅供测试
 ===============
 Thanks to mkbootimage@Xiaolu bootimg.exe@cofface bootsigner@ZJL 
+本工具请在英文目录下运行
 
 HOW TO USE:
 -----------
@@ -91,7 +92,7 @@ Add for bootsigner
 
 ### For Windows
             If you want simple operation,you can double-click the bat file.
-       OR
+       OR
 ==============
 
 1. WIN + R
