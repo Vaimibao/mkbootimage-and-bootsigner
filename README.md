@@ -1,9 +1,11 @@
 mkbootimg_tools and bootsigner
 
-This branch only applies to the old model kernel signature, the new version please see the new-tool branch
-这个分支仅适用于旧版机型内核签名，新版用new-tool分支
 ===============
 Thanks to mkbootimage@Xiaolu bootimg.exe@cofface bootsigner@ZJL 
+本工具请在英文目录下运行
+
+This branch only applies to the old model kernel signature, the new version please see the new-tool branch
+这个分支仅适用于旧版机型内核签名，新版用new-tool分支
 
 HOW TO USE:
 -----------
