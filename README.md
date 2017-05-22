@@ -1,4 +1,7 @@
 mkbootimg_tools and bootsigner
+
+JUST FOR TEST
+仅供测试
 ===============
 Thanks to mkbootimage@Xiaolu bootimg.exe@cofface bootsigner@ZJL 
 
