@@ -2,11 +2,10 @@ mkbootimg_tools and bootsigner
 
 ===============
 
-Thanks to mkbootimage@Xiaolu bootimg.exe@cofface bootsigner@ZJL 
-本工具请在英文目录下运行
+#Thanks to mkbootimage@Xiaolu bootimg.exe@cofface bootsigner@ZJL 
 
-This branch only applies to the old model kernel signature, the new version please see the new-tool branch
-这个分支仅适用于旧版机型内核签名，新版用new-tool分支
+#本工具请在英文目录下运行
+
 
 HOW TO USE:
 -----------
@@ -104,7 +103,9 @@ Add for bootsigner
 3. First you have to switch to the directory of bootimg.exe
 
     EXAMPLE
+
             cd C:\xiyan\
+
     THEN
 
 ### Unpack boot/recovery(.img) support dtb(dt.img):
