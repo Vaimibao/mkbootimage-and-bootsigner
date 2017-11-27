@@ -1,10 +1,10 @@
-# Mkbootimg_tools and Bootsigner
+### Mkbootimg_tools and Bootsigner
 
 ===============
 
 Thanks to mkbootimage@Xiaolu  bootimg.exe@cofface  bootsigner@ZJL 
 
-# 本工具请在英文目录下运行
+### 本工具请在英文目录下运行
 
 HOW TO USE:
 -----------
@@ -13,7 +13,8 @@ HOW TO USE:
 
 
 1.Linux bootsigner By ZJL
-                Terminal runs：
+                
+  Terminal runs：
     
         sh boot.sh
 
